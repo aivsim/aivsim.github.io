@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Aivaras Simulis",
     "description": "",
-    "home_page_url": "https://aivsim.github.io/aivsim",
-    "feed_url": "https://aivsim.github.io/aivsim/feed.json",
+    "home_page_url": "https://aivsim.github.io",
+    "feed_url": "https://aivsim.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Aivaras Šimulis"
     },
     "items": [
         {
-            "id": "https://aivsim.github.io/aivsim/demo-post.html",
-            "url": "https://aivsim.github.io/aivsim/demo-post.html",
+            "id": "https://aivsim.github.io/demo-post.html",
+            "url": "https://aivsim.github.io/demo-post.html",
             "title": "Demo post",
             "summary": "Demo",
             "content_html": "Demo",

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Aivaras Simulis</title>
-    <link href="https://aivsim.github.io/aivsim/feed.xml" rel="self" />
-    <link href="https://aivsim.github.io/aivsim" />
-    <updated>2020-05-25T17:44:03+03:00</updated>
+    <link href="https://aivsim.github.io/feed.xml" rel="self" />
+    <link href="https://aivsim.github.io" />
+    <updated>2020-05-25T17:47:32+03:00</updated>
     <author>
         <name>Aivaras Šimulis</name>
     </author>
-    <id>https://aivsim.github.io/aivsim</id>
+    <id>https://aivsim.github.io</id>
 
     <entry>
         <title>Demo post</title>
         <author>
             <name>Aivaras Šimulis</name>
         </author>
-        <link href="https://aivsim.github.io/aivsim/demo-post.html"/>
-        <id>https://aivsim.github.io/aivsim/demo-post.html</id>
+        <link href="https://aivsim.github.io/demo-post.html"/>
+        <id>https://aivsim.github.io/demo-post.html</id>
 
         <updated>2020-05-25T17:37:52+03:00</updated>
             <summary>
